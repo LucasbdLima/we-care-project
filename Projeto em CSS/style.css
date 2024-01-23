@@ -1,0 +1,149 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    height: 150vh;
+    width: 150vw;
+}
+
+header {
+    margin: 44px 0 144px 76px;
+}
+
+.link-header {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.button-header {
+    background: #665AE1;
+    border-radius: 20.5px;
+    width: 130px;
+    height: 41px; 
+    border: none;
+    font-weight: 600; 
+    font-size: 24px; 
+    line-height: 29px; 
+    color: #FFF; 
+    cursor: pointer;
+
+}
+
+.img-logo {
+    width: 568px;
+    height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+h1 {
+    font-size: 100px; 
+    font-weight: 900;
+    line-height: 122px; 
+    color: #515151; 
+}
+
+h2 {
+    color: #515151;
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 71px; 
+}
+
+p {
+    color: #848484;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    width: 515px; 
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+.button-main {
+    border-radius: 30px;
+    background: #ADFF00;
+    width: 239px;
+    height: 64px; 
+    border: none;
+    cursor: pointer;
+    filter: drop-shadow( 0px 7px 7px color(#000000));
+    color: #000;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34px; 
+}
+
+@media screen and (max-width:750px) {
+    
+    div {
+        width: 390px;
+        height: auto;
+        top: 16%;
+        right: 2vw;
+        position: absolute;
+    }
+    header {
+        margin: 0;
+        padding: 0;
+        width: auto;
+        height: 25%;
+    }
+
+    a {
+        display: none;
+    }
+
+    .button-header {
+        display: none;
+    }
+
+    p {
+        display: none;
+    }
+
+    .img-logo{
+        Width: 330px;
+        height: 300px;
+        position: absolute;
+        right: 5vw;
+    }
+
+    section {
+        position: relative;
+        margin-left: 1vw;
+        margin-top: 77%;
+    }
+
+    h1{
+        font-size: 50px;
+        margin-left: 80px;
+        margin-bottom: 20px;
+        height: 52px;
+    }
+
+    h2 {
+        font-size: 32px;
+        margin-left: 87px;
+    }
+
+    .button-main {
+        height: 64px;
+        margin-left: 87px;
+        margin-top: 30px;
+    }
+    
+}
