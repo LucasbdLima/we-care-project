@@ -2,6 +2,8 @@
 <br>
 <h2>Responsive website design - desktop and mobile</h2>
 <br>
+<h3>This project was based on the study of the Devclub course. HTML and CSS technologies were used. The project was also made responsive, so that it can be used on desktop and mobile.</h3>
+<br>
 <h3>Technologies used:
     <section>
       <img width="45" height="45" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> 
@@ -15,4 +17,6 @@
 <img src="https://github.com/LucasbdLima/we-care-project/blob/master/assets/desktop-image.png?raw=true" alt="desktop-preview">
 <br>
 <h4>Mobile</h4>
-<img src=""
+<img src="https://github.com/LucasbdLima/we-care-project/blob/master/assets/mobile-image.png?raw=true" alt="mobile-preview">
+<br>
+
