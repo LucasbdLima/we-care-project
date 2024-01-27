@@ -12,3 +12,7 @@
 <h3>Preview for project:</h3>
 <br>
 <h4>Desktop</h4>
+<img src="https://github.com/LucasbdLima/we-care-project/blob/master/assets/desktop-image.png?raw=true" alt="desktop-preview">
+<br>
+<h4>Mobile</h4>
+<img src=""
